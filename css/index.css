@@ -213,3 +213,17 @@ iframe {
 }
 
 /* ABOUT STYLES END */
+
+
+@media only screen and (max-width: 800px){
+  * {
+    margin: 0 auto;
+  }
+  ul li {
+    font-size: 11px;
+  }
+  .bucketlist-container {
+    position: relative;
+    margin-top: 10px;
+  }
+}
